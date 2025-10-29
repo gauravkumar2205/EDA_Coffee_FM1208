@@ -307,51 +307,6 @@ PCA 2D Projection
 Stacked Bar Charts
 
 
-
-🚀 How to Run
-
-
-
-Clone the repository
-
-
-
-git clone https://github.com/<your-username>/coffee-dataset-analysis.git
-
-cd coffee-dataset-analysis
-
-
-
-
-
-Install dependencies
-
-
-
-pip install -r requirements.txt
-
-
-
-
-
-Run the notebook or Python file
-
-
-
-jupyter notebook coffee\_analysis.ipynb
-
-
-
-
-
-or
-
-
-
-python coffee\_analysis.py
-
-
-
 📚 Future Improvements
 
 
@@ -375,4 +330,5 @@ Author
 Gaurav Kumar
 
 🎓 MSc Computer Science, MIT ACSC (SPPU)
+
 
