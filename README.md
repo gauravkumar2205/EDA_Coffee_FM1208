@@ -329,6 +329,6 @@ Author
 
 Gaurav Kumar
 
-🎓 MSc Computer Science, MIT ACSC (SPPU)
+
 
 
